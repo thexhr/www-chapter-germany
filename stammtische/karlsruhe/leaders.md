@@ -1,5 +1,5 @@
 ### Organisatoren
 
 * [Matthias Schmidt](mailto:owasp@xosc.org)
-* Ives Laaf
+* [Ives Laaf](mailto:owasp@dalini.de)
 * Kadir Ates
